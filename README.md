@@ -41,6 +41,6 @@ na própria pasta e a origem abaixo.
 | break | github.com/jakubkrehel/skills (skills/break, commit 592aedc) | MIT |
 | build-design | github.com/jakubkrehel/skills (skills/build-design, commit 592aedc) | MIT |
 | explain-interface | github.com/jakubkrehel/skills (skills/explain-interface, commit 592aedc) | MIT |
-| interface-review | github.com/jakubkrehel/skills (skills/interface-review, commit 592aedc) | MIT |
+| interface-review | github.com/jakubkrehel/skills (skills/interface-review, commit 592aedc; **alterada**: sem a linha `disable-model-invocation: true` no SKILL.md, para o Claude rodar a revisão sozinho antes do PR) | MIT |
 | state-machine | github.com/jakubkrehel/skills (skills/state-machine, commit 592aedc) | MIT |
 | variant | github.com/jakubkrehel/skills (skills/variant, commit 592aedc) | MIT |
