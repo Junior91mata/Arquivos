@@ -29,3 +29,4 @@ na própria pasta e a origem abaixo.
 |---|---|---|
 | animate | github.com/emilkowalski/skills (skills/animate) | MIT |
 | emil-design-eng | github.com/emilkowalski/skills (skills/emil-design-eng) | MIT |
+| web-design-engineer | github.com/ConardLi/garden-skills (skills/web-design-engineer, commit 2b9a893; sem os READMEs, o manifest.json e o agents/openai.yaml) | MIT |
