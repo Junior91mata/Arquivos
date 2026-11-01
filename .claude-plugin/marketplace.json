@@ -1,0 +1,11 @@
+{
+  "name": "arquivos",
+  "owner": { "name": "Junior91mata" },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./Skill",
+      "description": "Skills do Junior para o Claude Code"
+    }
+  ]
+}
